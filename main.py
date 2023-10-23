@@ -12,3 +12,6 @@ from tensorflow.keras import losses
 
 # Load the dataset
 df = pd.read_csv('data.csv')
+
+X = df['text']
+y = df['label']
