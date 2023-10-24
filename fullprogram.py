@@ -1,5 +1,5 @@
 # %% [markdown]
-# # This is a Basic Sentiment Analysis Project | Aadi Kulkarni
+# # This is a Basic Sentiment Analysis Project | @HPD1155
 # # Libraries Used
 # Tensorflow/Keras - Used for defining, building, and training the model
 # Pandas - Used for loading the dataset
