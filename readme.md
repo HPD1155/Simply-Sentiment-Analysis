@@ -4,6 +4,10 @@
 
 This project aims to provide a sentiment analysis solution for text data. Sentiment analysis is the process of determining the sentiment or emotional tone of a given text, such as positive, negative, or neutral. This project is designed to help people learn about sentiment analysis techniques and apply them to their own text data.
 
+# Tutorial
+- [Full Tutorial](https://github.com/HPD1155/Simply-Sentiment-Analysis/blob/main/main.ipynb)
+- [Full Program](https://github.com/HPD1155/Simply-Sentiment-Analysis/blob/main/fullprogram.py)
+
 ## Features
 
 - Perform sentiment analysis on text data.
